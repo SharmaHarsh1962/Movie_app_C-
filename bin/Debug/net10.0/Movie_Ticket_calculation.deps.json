@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Movie_Ticket_calculation/1.0.0": {
+        "runtime": {
+          "Movie_Ticket_calculation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Movie_Ticket_calculation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\sharm\Desktop\Study Portal\Movie_Ticket_calculation\bin\Debug\net10.0\Movie_Ticket_calculation.exe
+C:\Users\sharm\Desktop\Study Portal\Movie_Ticket_calculation\bin\Debug\net10.0\Movie_Ticket_calculation.deps.json
+C:\Users\sharm\Desktop\Study Portal\Movie_Ticket_calculation\bin\Debug\net10.0\Movie_Ticket_calculation.runtimeconfig.json
+C:\Users\sharm\Desktop\Study Portal\Movie_Ticket_calculation\bin\Debug\net10.0\Movie_Ticket_calculation.dll
+C:\Users\sharm\Desktop\Study Portal\Movie_Ticket_calculation\bin\Debug\net10.0\Movie_Ticket_calculation.pdb
+C:\Users\sharm\Desktop\Study Portal\Movie_Ticket_calculation\obj\Debug\net10.0\Movie_Ticket_calculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sharm\Desktop\Study Portal\Movie_Ticket_calculation\obj\Debug\net10.0\Movie_Ticket_calculation.AssemblyInfoInputs.cache
+C:\Users\sharm\Desktop\Study Portal\Movie_Ticket_calculation\obj\Debug\net10.0\Movie_Ticket_calculation.AssemblyInfo.cs
+C:\Users\sharm\Desktop\Study Portal\Movie_Ticket_calculation\obj\Debug\net10.0\Movie_Ticket_calculation.csproj.CoreCompileInputs.cache
+C:\Users\sharm\Desktop\Study Portal\Movie_Ticket_calculation\obj\Debug\net10.0\Movie_Ticket_calculation.dll
+C:\Users\sharm\Desktop\Study Portal\Movie_Ticket_calculation\obj\Debug\net10.0\refint\Movie_Ticket_calculation.dll
+C:\Users\sharm\Desktop\Study Portal\Movie_Ticket_calculation\obj\Debug\net10.0\Movie_Ticket_calculation.pdb
+C:\Users\sharm\Desktop\Study Portal\Movie_Ticket_calculation\obj\Debug\net10.0\Movie_Ticket_calculation.genruntimeconfig.cache
+C:\Users\sharm\Desktop\Study Portal\Movie_Ticket_calculation\obj\Debug\net10.0\ref\Movie_Ticket_calculation.dll
