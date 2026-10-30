@@ -71,12 +71,10 @@ while (true)
     }
     break;
 }
-
 Customer customer = new Customer(
     coustomerName, contact, chosenMovie, 
     showDate.ToString("yyyy-MM-dd"),
     showTime.ToString("hh:mm tt", CultureInfo.InvariantCulture));
-
 customer.PrintTicket();
 class Movie
 {
@@ -98,7 +96,6 @@ class Customer
     public Movie SelectedMovie;
     public string ShowDate;
     public string ShowTime;
-
     public Customer(string name, string contact, Movie selectedMovie, string showDate, string showTime)
     {
         Name = name;
@@ -107,7 +104,6 @@ class Customer
         ShowDate = showDate;
         ShowTime = showTime;
     }
-
     public void PrintTicket()
     {
         Console.WriteLine("\n____________________________________");
